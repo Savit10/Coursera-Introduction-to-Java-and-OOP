@@ -35,6 +35,17 @@ public class CodeDemo1 {
 		 /* division with ints
 		  * uses integer division and ignores the remainder
 		  */
+		  System.out.println("x / 2: " + (x/2));
+		  System.out.println("x / 2.0: " + (x/2.0));
+		  
+		  // Power operation
+		  System.out.println("x power 4: " + Math.pow(x,4));
+		  
+		  /* 
+		   * String operations
+		   */ 
+		   
+		   //String concatenation
 	}
 }
 
